@@ -1,0 +1,7 @@
+# данные с Kaggle не храним в репозитории
+data/*
+!data/README.md
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
